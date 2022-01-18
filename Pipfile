@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+pyxel = "==1.4.0"
+numpy = "*"
+neat-python = "*"
+graphviz = "*"
+pygame = "*"
+
+[requires]
+python_version = "3.8"
